@@ -47,7 +47,7 @@ def main():
         if check_acceptance(cv, skills[2]) == True:
             print("Congratulations! You have been accepted")
         else:
-            print("You have been rejected")
+            print("Sorry..You have been rejected")
         break
     ...
 
